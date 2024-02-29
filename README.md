@@ -10,11 +10,13 @@ The main tech stacks:
 _Note: If you want to download and try by yourself, please replace the "OPENAI_API_KEY" in the file ".env" with your own openai key first!_
 
 - Front-end interface
-  ![1709202660615](https://file+.vscode-resource.vscode-cdn.net/d%3A/ChatGPT/image/README/1709202660615.png)
+
+  ![1709203199055](image/README/1709203199055.png)
+
 - Loading
 
-  ![1709202681274](image/README/1709202681274.png)
+  ![1709203220445](image/README/1709203220445.png)
 
 - Show the answer
 
-  ![1709202691771](image/README/1709202691771.png)
+  ![1709203227100](image/README/1709203227100.png)
