@@ -1,4 +1,4 @@
-# ocal ChatGPT
+# Local ChatGPT
 
 This program creates a local chatgpt for personal usage by calling the official openai api of "gpt-3.5 turbo". You can download this program to modify by yourself and study together!
 
